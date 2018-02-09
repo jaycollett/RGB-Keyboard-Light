@@ -1,0 +1,9 @@
+z:\Visual Studio 2008\Projects\KeyboardLightController\KeyboardLightController\bin\Release\KeyboardLightController.exe.config
+z:\Visual Studio 2008\Projects\KeyboardLightController\KeyboardLightController\bin\Release\KeyboardLightController.exe
+z:\Visual Studio 2008\Projects\KeyboardLightController\KeyboardLightController\bin\Release\KeyboardLightController.pdb
+z:\Visual Studio 2008\Projects\KeyboardLightController\KeyboardLightController\obj\Release\ResolveAssemblyReference.cache
+z:\Visual Studio 2008\Projects\KeyboardLightController\KeyboardLightController\obj\Release\KeyboardLightController.Form1.resources
+z:\Visual Studio 2008\Projects\KeyboardLightController\KeyboardLightController\obj\Release\KeyboardLightController.Properties.Resources.resources
+z:\Visual Studio 2008\Projects\KeyboardLightController\KeyboardLightController\obj\Release\KeyboardLightController.csproj.GenerateResource.Cache
+z:\Visual Studio 2008\Projects\KeyboardLightController\KeyboardLightController\obj\Release\KeyboardLightController.exe
+z:\Visual Studio 2008\Projects\KeyboardLightController\KeyboardLightController\obj\Release\KeyboardLightController.pdb
